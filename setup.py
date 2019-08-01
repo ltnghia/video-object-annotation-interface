@@ -41,7 +41,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Trung-Nghia Le",
     author_email='ltnghia.vision@gmail.com',
-    url='https://github.com/ltnghia/Video_Object_Annotation_Interface',
+    url='https://github.com/ltnghia/Video-Object-Annotation-Interface',
     packages=required_packages,
     include_package_data=True,
     install_requires=requirements,
