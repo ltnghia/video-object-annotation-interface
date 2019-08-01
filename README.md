@@ -1,7 +1,7 @@
 Video Object Annotation Interface
 ==================================
 
-This work is based on `LabelImg <https://github.com/tzutalin/labelImg>`_.
+This work is based on [LabelImg](https://github.com/tzutalin/labelImg).
 
 It is written in Python and uses Qt for its graphical interface.
 
@@ -20,6 +20,6 @@ Installation
 
 License
 ~~~~~~~
-`Free software: MIT license <https://github.com/ltnghia/Object_Annotation_Interface/blob/master/LICENSE>`_
+Free software: [MIT license](https://github.com/ltnghia/Object_Annotation_Interface/blob/master/LICENSE).
 
 Contact: [Trung-Nghia Le](https://sites.google.com/view/ltnghia).
