@@ -1,6 +1,8 @@
 Video Object Annotation Interface
 ==================================
 
+![](GUI.jpg)
+
 This work is based on [LabelImg](https://github.com/tzutalin/labelImg).
 
 It is written in Python and uses Qt for its graphical interface.
