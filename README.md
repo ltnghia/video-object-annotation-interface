@@ -19,7 +19,7 @@ Installation
     python3 main.py
 
 License
-~~~~~~~
+------------------
 Free software: [MIT license](https://github.com/ltnghia/Object_Annotation_Interface/blob/master/LICENSE).
 
 Contact: [Trung-Nghia Le](https://sites.google.com/view/ltnghia).
