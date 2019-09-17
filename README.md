@@ -1,6 +1,8 @@
 Video Object Annotation Interface
 ==================================
 
+Visit our [Project Page](https://sites.google.com/view/ltnghia/research/video_self_annotation) for accessing the paper, and the data.
+
 ![](GUI.jpg)
 
 This work is based on [LabelImg](https://github.com/tzutalin/labelImg).
