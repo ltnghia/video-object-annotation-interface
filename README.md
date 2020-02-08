@@ -1,7 +1,7 @@
 Video Object Annotation Interface
 ==================================
 
-Visit our [Project Page](https://sites.google.com/view/ltnghia/research/video_self_annotation) for accessing the paper, and the data.
+Visit our [Project Page](https://sites.google.com/view/ltnghia/research/video-self-annotation) for accessing the paper, and the data.
 
 ![](GUI.jpg)
 
